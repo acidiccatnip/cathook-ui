@@ -1,4 +1,4 @@
-# cathook ui documentation (for vector ONLY) (i guess it will work but in some way no, bc all of that documentation are vibecoded, sowwy ＞﹏＜
+# cathook ui documentation (i guess it will work but in some way no, bc all of that documentation are vibecoded, sowwy ＞﹏＜
 
 ## Quick Start
 
