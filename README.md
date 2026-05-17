@@ -4,6 +4,8 @@
 
 # ui supports in
 [🟢] -> Vector
+[🟢] -> Photon
+[🟢] -> RbxCli
 
 # loadstring (preview)
 
